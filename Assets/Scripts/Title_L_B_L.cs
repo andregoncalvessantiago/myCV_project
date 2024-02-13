@@ -5,7 +5,7 @@ using TMPro;
 
 public class LetterByLetter : MonoBehaviour
 {
-    string textToType = "This is the line to print.";
+    string textToType = "Hello, I'm Andre. Welcome to my CV.";
     TMP_Text title_presentation;
 
     void Awake()
